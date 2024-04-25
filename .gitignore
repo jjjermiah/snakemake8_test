@@ -2,3 +2,7 @@
 .pixi
 *.egg-info
 
+.snakemake/
+results/
+rawdata/
+procdata
