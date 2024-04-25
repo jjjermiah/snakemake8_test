@@ -1,0 +1,6 @@
+storage-gcs-project: orcestra-388613
+default-storage-provider: gcs 
+default-storage-prefix: gs://orcestradata/snakemake8_test
+
+executor: kubernetes
+jobs: 5
